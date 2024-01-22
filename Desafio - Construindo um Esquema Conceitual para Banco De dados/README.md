@@ -12,4 +12,4 @@ O desafio consiste na construção de um projeto conceitual de banco de dados de
 * Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
 ## Resolução
-![Diagrama Oficina](Diagrama_EER_Oficina)
+![Diagrama Oficina](Diagrama_EER_Oficina.png)
